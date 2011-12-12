@@ -1,0 +1,5 @@
+<project name="teste" basedir=".">
+	<target name="teste-war" >  
+        <war warfile="app.war"></war>  
+	</target>  
+</project>
